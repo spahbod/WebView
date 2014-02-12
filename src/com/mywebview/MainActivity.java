@@ -23,7 +23,7 @@ public class MainActivity extends Activity  implements OnClickListener {
 		button2 = (Button) findViewById(R.id.buttonUrl2);
  
 		button1.setOnClickListener(this);
-		button2.setOnClickListener(this);
+		button2.setOnClickListener(this);  //coment
 		
 	}
 
